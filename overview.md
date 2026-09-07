@@ -78,9 +78,3 @@ git diff -
 
 git diff  - -staged
 (same example but one correction you have to change then run this command git add . and git diff command show me staged files)
-
-git pull - Gets the latest changes from GitHub and applies them to your current branch. 
-git fetch - Gets the latest changes from GitHub and do not apply them to your current branch and check
-git log - see your commit history
-git stash - You changed some code, but you don't want to commit it now.Git temporarily saves your changes. 
-git stash pop -  you changed some code then save it and bring your changes back
